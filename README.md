@@ -1,5 +1,5 @@
 # OpenHES
-OpenHES provide the main standard functionality of an Head End System, the Multispeak v.4.1 and IEC61968 interface for the integration with the Meter Data Management Systems and the capability for the Meter Vendors to add their propetary meters drivers as plug-ins.
+OpenHES provide the main standard functionality of an Head End System, the Multispeak v.4.1 and IEC61968-9 interface for the integration with the Meter Data Management Systems and the capability for the Meter Vendors to add their propetary meters drivers as plug-ins.
 
 The main objective of this project is to develop an open, standard, comprehensive, scalable and easy to integrate HES for the Energy&Utility Industry.
 
