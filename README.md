@@ -5,7 +5,7 @@ The main objective of this project is to develop an open, standard, comprehensiv
 
 The project is just started and any support and contribution from the Energy&Utility Industry entities (Utilities, Meter Vendors, Smart Metering Professionals, etc.) is more than welcome.
 
-You can get in touch with us at [mailto:openhes@zeroclock.com openhes@zeroclock.com].
+You can get in touch with us at openhes@zeroclock.com.
 
 ## Authors
 
