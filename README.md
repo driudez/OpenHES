@@ -1,10 +1,11 @@
 # OpenHES
-Open Source Head End System
-An Open source Head End System for all vendors native integrated with Oracle MDM
+OpenHES provide the main standard functionality of an Head End System, the Multispeak v.4.1 and IEC61968 interface for the integration with the Meter Data Management Systems and the capability for the Meter Vendors to add their propetary meters drivers as plug-ins.
+
+The main objective of this project is to develop an open, standard, comprehensive, scalable and easy to integrate HES for the Energy&Utility Industry.
+
+The project is just started and any support from the Energy&Utility Industry entities (Utilities, Meter Vendors, Smart Metering Professionals, etc.) is more than welcome.
 
 ## Authors
 
 * **Vincenzo Spampinato** - *Initial work*
 * **Andrea Desantis** - *Initial work*
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
