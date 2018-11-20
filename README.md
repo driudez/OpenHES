@@ -10,4 +10,5 @@ You can get in touch with us at openhes@zeroclock.com.
 ## Authors
 
 * **Vincenzo Spampinato** - *Initial work*
+* **Diego Bramati** - *Initial work*
 * **Andrea Desantis** - *Initial work*
